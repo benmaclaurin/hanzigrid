@@ -1,4 +1,7 @@
 {
   "name": "@benmaclaurin/hanzigrid",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "description": "Hanzi grid generator for JS",
+  "repository": "benmaclaurin/hanzigrid",
+  "main": "index.js"
 }
