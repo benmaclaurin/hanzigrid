@@ -5,4 +5,6 @@ exports.box = function(rows) {
     response += '<tr><td>' + box + '</td></tr>'
   }
   response += '</table>';
+
+  return response;
 };
