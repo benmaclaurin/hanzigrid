@@ -1,1 +1,3 @@
-exports.test = 'hello';
+exports.box = function(size) {
+  return '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ' + size + '.854 ' + size + '.854"><defs><style>.cls-1 {fill: #f5f5f5;}.cls-2 {fill: none;stroke: #a5a5a5;stroke-dasharray: 5;}</style></defs><g id="Group_1" data-name="Group 1" transform="translate(-246 -186)"><rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="' + size + '" height="' + size + '" transform="translate(246 186)"/><line id="Line_1" data-name="Line 1" class="cls-2" y2="' + size + '" transform="translate(371.5 186.5)"/><line id="Line_2" data-name="Line 2" class="cls-2" x2="' + size + '" transform="translate(246.5 311.5)"/><line id="Line_3" data-name="Line 3" class="cls-2" x1="' + size + '" y1="' + size + '" transform="translate(246.5 186.5)"/><line id="Line_4" data-name="Line 4" class="cls-2" y1="' + size + '" x2="' + size + '" transform="translate(246.5 186.5)"/></g></svg>';
+};
