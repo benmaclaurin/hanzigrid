@@ -9,7 +9,7 @@ npm install @benmaclaurin/hanzigrid
 ```
 
 ## Usage
-```
+```javascript
 var grid = require('@benmaclaurin/hanzigrid');
 
 document.getElementById('grid').innerHTML = grid.generate(14, 10, options = {
