@@ -1,7 +1,7 @@
 # Hanzi Grid
 ###### JS module for creating hanzi grids/tables
 
-This is a simple module (my first) which generates SVG-based hanzi grids/tables for Chinese language learners. You can use [Browserify](http://browserify.org) to require this module on the web.
+This is a simple module which generates SVG-based hanzi grids/tables for Chinese language learners. You can use [Browserify](http://browserify.org) to require this module on the web.
 
 ## Install
 ```
