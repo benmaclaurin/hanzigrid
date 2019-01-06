@@ -48,6 +48,6 @@ Read the [documentation](http://browserify.org) for usage.
   <meta charset="UTF-8">
 </head>
 ```
-This is required to encode and display the characters.
+This is required to encode and display characters.
 
 More options/features to come.
