@@ -14,11 +14,13 @@ const grid = require('@benmaclaurin/hanzigrid');
 
 document.getElementById('grid').innerHTML = grid.generate(14, 10, options = {
   dashes: 20,
-  opacity: 0.1
+  opacity: 0.1,
+  lines: 4
 });
 ```
 Generates a new grid with 14 rows and 10 columns. Options:
 - dashes - dash density of guidelines
 - opacity - opacity of guidelines
+- lines - number of guidelines (2 or 4)
 
 More options/features to come.
